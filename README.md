@@ -16,4 +16,6 @@ Each folder contains a module-specific submission along with a README to explain
   *Consulting report for SensorMesh on big data adoption, ingestion, and visualisation strategies*
 - [Managing Design and Manufacturing Technology – Levi Stool Project](./Managing-Design-and-Manufacturing-Technology)  
 *Inclusive product design project using Double Diamond, PDS, Pugh Matrix, and collaborative evaluation*
+- [Study, Professional & Analytical Skills (WM999-15)](./WM999-15%20SPA%20-%20Study,%20Professional%20&%20Analytical%20Skills)  
+*Includes a reflective development essay and a literature review on Lean Six Sigma for sustainability*
 > 📬 For more details or project access, feel free to reach out via LinkedIn or email.
