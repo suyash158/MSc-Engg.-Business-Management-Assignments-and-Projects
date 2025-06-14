@@ -14,4 +14,6 @@ Each folder contains a module-specific submission along with a README to explain
   *Includes quality frameworks review, asset maintenance strategy, lifetime data analysis, and a reflective essay*
 - [Big Data Analytics for Industry (WM9G1-15)](./Big-Data-Analytics-for-Industry-WM9G1-15)  
   *Consulting report for SensorMesh on big data adoption, ingestion, and visualisation strategies*
+- [Managing Design and Manufacturing Technology – Levi Stool Project](./Managing-Design-and-Manufacturing-Technology)  
+*Inclusive product design project using Double Diamond, PDS, Pugh Matrix, and collaborative evaluation*
 > 📬 For more details or project access, feel free to reach out via LinkedIn or email.
