@@ -8,9 +8,8 @@ Each folder contains a module-specific submission along with a README to explain
 
 - [Strategy and Finance for Engineering Organisations](./Strategy-and-Finance-Assignment)  
   *Toyota strategy analysis with SWOT, TOWS, PESTLEE, and roadmapping toward carbon neutrality*
-
-_(More modules will be added soon)_
-
+- [Logistics and Operations Management](./Logistics-and-Operations-Assignment)  
+  *Operational improvement plan using MRP, inventory control, and bottleneck analysis*
 ---
 
 > 📬 For more details or project access, feel free to reach out via LinkedIn or email.
