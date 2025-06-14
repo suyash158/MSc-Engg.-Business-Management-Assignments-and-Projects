@@ -7,7 +7,7 @@ Each folder contains a module-specific submission along with a README to explain
 ## 📂 Contents
 
 - [Strategy and Finance for Engineering Organisations](./Strategy-and-Finance-Assignment)  
-  *Toyota strategy analysis with SWOT, TOWS, PESTLEE, and roadmapping toward carbon neutrality*
+*Includes a strategic analysis of Toyota and a Gibbs-model reflection on personal and team development*
 - [Logistics and Operations Management](./Logistics-and-Operations-Assignment)  
   *Operational improvement plan using MRP, inventory control, and bottleneck analysis*
  - [Quality, Reliability and Maintenance (WM9F8-15)](./Quality,%20Reliability%20and%20Maintenance%20(WM9F8-15))  
